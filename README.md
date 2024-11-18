@@ -1,9 +1,14 @@
 --Product Search (6 searches)
 Product ID: 40d3cd16b41970ae6872e914aecf2c8e, Name: Rubie's Child's Pokemon Deluxe Pikachu Costume, X-Small, Category: Clothing, Shoes & Jewelry | Costumes & Accessories | Kids & Baby | Girls | Costumes, Price: $29.12
+
 Product ID: afef5d77b6049314aeb9c50421a2cee9, Name: Aquarius DC Wonder Woman Retro Playing Cards, Category: Toys & Games | Games & Accessories | Card Games | Standard Playing Card Decks, Price: $6.47
+
 Product ID: 8b3ed216e8ea2a65feb8843e16e57217, Name: Craft-tastic – Kindness Kit – Craft Kit Includes 8 Projects to Inspire Kindness, Bilingual, Category: Toys & Games | Arts & Crafts | Craft Kits, Price: $19.99
+
 Product ID: 8810d7ffdc995fd1905089cf090f2d5d, Name: Bendon Finding Dory Sticker Box, Category: Toys & Games | Arts & Crafts | Craft Kits, Price: $9.99
+
 Product ID: 5b9175244eadc52976fd651d4e652ae8, Name: Schleich North America Tyrannosaurus Rex Toy Figure, Red, Category: Toys & Games | Toy Figures & Playsets | Action Figures, Price: $21.24
+
 Product with ID aNonExistentProductID is not found.
 
 
